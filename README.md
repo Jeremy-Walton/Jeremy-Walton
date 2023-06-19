@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 <p align="center">
   &nbsp;
   &nbsp;
@@ -25,7 +24,6 @@
   &nbsp;
   &nbsp;
 </p>
-
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="450" />

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Writing code since December 2013 👋
+  Writing code since 2013 👋
 </h1>
 
 <p align="center">
